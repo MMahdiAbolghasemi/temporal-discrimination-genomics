@@ -36,8 +36,8 @@ openpyxl
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/binaural-hearing-analysis.git
-cd binaural-hearing-analysis
+git clone https://github.com/MMahdiAbolghasemi/temporal-discrimination-genomics.git
+cd temporal-discrimination-genomics
 ```
 
 2. Install required dependencies:
