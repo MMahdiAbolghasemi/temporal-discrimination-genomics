@@ -1,6 +1,3 @@
-# temporal-discrimination-genomics
-Analysis of temporal interval discrimination thresholds across baseline, control(monoral), and binaural conditions, with examination of associations with genetic variants.
-
 # Binaural Hearing Threshold Analysis with Genetic Markers
 
 ## Overview
